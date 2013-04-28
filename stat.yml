@@ -1,4 +1,4 @@
-Name: Stat
+Name: Content Stats
 Description: A command for gathering stats about your content.
 Author: danielbachhuber
 Source: https://github.com/danielbachhuber/wp-cli-stat-command.git
